@@ -8,7 +8,6 @@ public class D250217_Q2798_블랙잭 {
         int N = sc.nextInt();
         int M = sc.nextInt();
         int [] cards = new int[N];
-        boolean [] choose = new boolean[N];
         for(int i = 0 ; i < N ; i++){
             cards[i] = sc.nextInt();
         }
